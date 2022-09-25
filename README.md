@@ -1,2 +1,2 @@
-# Youtube-Bias
-Recommendation Bias on Youtube
+# YouTube-Bias
+Recommendation Bias on YouTube
